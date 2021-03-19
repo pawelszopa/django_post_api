@@ -1,5 +1,5 @@
 .idea
 *.pyc
 Pipfile.lock
-migrations
+migrations/0*.py
 db.sqlite3
